@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<people>
+  <person id="1001"> 
+      <firstname>Dhanusha</firstname>
+      <lastname id="1">Siriwardane</lastname>
+      <age>19</age>
+  </person>
+  
+  <person id="1002"> 
+      <firstname>Amal</firstname>
+      <lastname id="2">Perera</lastname>
+      <age>25</age>
+  </person>
+  
+  <person id="1003"> 
+      <firstname>Sahan</firstname>
+      <lastname id="3">Tharaka</lastname>
+      <age>33</age>
+  </person>
+</people>
